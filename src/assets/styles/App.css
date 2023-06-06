@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.main {
+  width: 550px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.card-list {
+  display: flex;
+  font-display: row;
+  overflow-x: auto;
+  padding: 20px;
+}
